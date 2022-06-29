@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: swagger-client
+Version: 1.0.0
+Summary: База кроссов автозапчастей FAPI. Описание доступа через API
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: development.iisis@gmail.com
+License: UNKNOWN
+Description:     База кроссов автозапчастей FAPI. Описание доступа через API  # noqa: E501
+            
+Keywords: Swagger,База кроссов автозапчастей FAPI. Описание доступа через API
+Platform: UNKNOWN
