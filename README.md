@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # swagger-client
 База кроссов автозапчастей FAPI. Описание доступа через API
 
@@ -128,3 +129,7 @@ Class | Method | HTTP request | Description
 
 development.iisis@gmail.com
 
+=======
+# fapi
+fapi client code
+>>>>>>> 81ca4227d92f294f5a8c64572860ba73e05aafc4
